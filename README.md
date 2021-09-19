@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a French student who is fond of Computer Science and Programming!
+I am a French student, fond of Computer Science and Programming!
 
 <!--
 **florian6973/florian6973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
