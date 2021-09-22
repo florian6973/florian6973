@@ -2,7 +2,7 @@
 
 I am a French student, fond of Computer Science and Programming!
 
-![Metrics](https://metrics.lecoq.io/my-github-user)
+![Metrics](https://metrics.lecoq.io/florian6973)
 
 <!--
 **florian6973/florian6973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
