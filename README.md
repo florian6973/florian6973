@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a French student, fond of Computer Science and Programming!
+I am a French student, fond of Computer Science and Machine-Learning, with a strong interested in biomedical applications!
 
-![Metrics](https://metrics.lecoq.io/florian6973)
+You can view my online CV at [https://florian6973.github.io](https://florian6973.github.io).
 
 <!--
 **florian6973/florian6973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
