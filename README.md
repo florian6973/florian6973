@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a French student, fond of Computer Science and Machine-Learning, with a strong interested in biomedical applications!
+I am a French student, fond of Computer Science and Machine-Learning, with a strong interest in biomedical applications!
 
 You can view my online CV at [https://florian6973.github.io](https://florian6973.github.io).
 
