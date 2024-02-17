@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a French student, fond of Computer Science and Machine-Learning, with a strong interest in biomedical applications!
-
-You can view my online CV at [https://florian6973.github.io](https://florian6973.github.io).
+I am a French student, fond of Computer Science and Machine-Learning, with a strong interest in biomedical applications
 
 <!--
 **florian6973/florian6973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
